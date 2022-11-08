@@ -11,4 +11,4 @@ It uses system file routing, inside the templates folder.
 
 # Currently known bugs
 - The react in the `.jsx` isn't very... reactive. This means that preact doens't re-render the page when something changes. Pretty static for something called after reaction
-- This is it for now I think. But if you found one, you can [create a new issue](https://github.com/Ar7hurz1nh0/fract/issues/new)
+- This is it for now I think. But if you found one, you can [create a new issue](issues/new)
